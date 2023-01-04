@@ -1,4 +1,4 @@
-#Wed Jan 04 17:29:14 SGT 2023
-base.0=C\:\\Users\\Too Khang\\Desktop\\Midterm Assignment\\homestay_raya\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Jan 04 18:02:15 SGT 2023
+base.0=C\:\\Users\\Too Khang\\Desktop\\Lab Midterm A221\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

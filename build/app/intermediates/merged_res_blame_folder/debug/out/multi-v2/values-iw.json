@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Too Khang\\Desktop\\Midterm Assignment\\homestay_raya\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "C:\\Users\\Too Khang\\Desktop\\Lab Midterm A221\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Too Khang\\.gradle\\caches\\transforms-3\\5bb5c542051ad7d41a6ce30144df9ca0\\transformed\\appcompat-1.3.0\\res\\values-iw\\values-iw.xml",
